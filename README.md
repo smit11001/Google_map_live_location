@@ -3,14 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+Live location with google map
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230628-144153](https://github.com/smit11001/Google_map_live_location/assets/113500028/24c14c82-174f-4d9f-8c3c-af98c4eec173)
+![Screenshot_20230628-144208](https://github.com/smit11001/Google_map_live_location/assets/113500028/33e19676-3b00-4fa7-9686-56c1bd61edb4)
